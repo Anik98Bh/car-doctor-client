@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 
 
 
-    <h1><a>'https://car-doctor-f8261.web.app/'</a>car-doctor-client</h1>
+    <h1>Website: <a href="https://car-doctor-f8261.web.app">car-doctor-client</a></h1>
